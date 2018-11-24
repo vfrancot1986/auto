@@ -9,7 +9,7 @@ Funcionalidade: Editar cartao no Trello
       Quando clico em "<acao>" um cartao
       Entao o cartao e "<acao>"
       Exemplos:
-        |acao		|quadro|
+        |acao		|quadro         |
         |Adicionar	|automationprime|
         |Editar		|automationprime|
         |Excluir	|automationprime|
